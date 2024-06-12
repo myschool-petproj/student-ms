@@ -1,5 +1,6 @@
 const COMMON = {
-    id: 'id'
+    id: 'id',
+    is_deleted: 'is_deleted'
 };
 
 const TABLES = {
