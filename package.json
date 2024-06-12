@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myschool-petproj/students-ms.git"
+    "url": "git+https://github.com/myschool-petproj/student-ms.git"
   },
   "author": "yaree",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/myschool-petproj/students-ms/issues"
+    "url": "https://github.com/myschool-petproj/student-ms/issues"
   },
-  "homepage": "https://github.com/myschool-petproj/students-ms#readme",
+  "homepage": "https://github.com/myschool-petproj/student-ms#readme",
   "description": "",
   "devDependencies": {
     "better-sqlite3": "^11.0.0",
